@@ -1,16 +1,52 @@
 # CSCI212_RybaProjects
 
-## Purpose
+## Course Information
 
-This repo will be used to document classroom projects done throughout the Spring 26' semester for Ryba's CSCI212 class -> Object-Oriented Programming in Java
+__Course__: CSCI 212 – Object-Oriented Programming in Java  
+__Institution__: Queens College (CUNY)  
+__Semester__: Spring 2026  
 
-Use the repo to help get yourself unstuck and not copy-paste the code to complete your work. Please try it yourself first and refer to the repo if you need help. Good luck and have fun!
+This repository contains coursework projects demonstrating object-oriented program design and structured data processing using Java.
 
-## Guide
-### Classes Refactoring
-`Class Refactoring` is more of a HW than a Project, but it was added because it was assigned. Each folder will be organized and hold a different Project.
+## Skills
++ Object-Oriented Programming (OOP)  
++ Modular class design  
++ ArrayLists and Arrays for structured data storage  
++ Static utility methods  
++ Debugging and testing workflows  
++ Program organization across multiple classes  
 
-### Project 1
-`Project 1` builds a Java Application to manage and analyze student grades for a specific course. It uses **Classes/Objects, ArrayLists, Arrays,** and, **Static Utility Methods** with great practice for **Modularization**
+## ClassesRefactoring
 
-*- Project 1 also includes a pdf of the project objective and requirements*
+This folder contains refactoring exercise found on improving exisitng Java code by restructuring classes and methods to enhance readability, modularity, and maintainability.
+
+Concepts Practice:
++ Code organization improvements
+
++ Method restructuring
+
++ Cleaner class structure
+
++ Maintainability-focused programming practices
+
+## Project 1 – Student Grade Analyzer
+
+Developed a Java application to manage and analyze student grades for a course.
+
+Concepts used:
++ Classes and Objects
+
++ ArrayLists and Arrays
+
++ Static Utility Methods  
+
++ Modular program structure  
+
+Features:
++ Stores & processes structured student grade data  
+
++ Computes statistical analysis on course performance
+
++ Demonstrates modular multi-class application design
+
+*(Project requirements PDF included in repository)*
